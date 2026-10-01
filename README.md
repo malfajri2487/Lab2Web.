@@ -175,5 +175,3 @@ Struktur semantic HTML.
 Pemutaran audio.
 Pemutaran video.
 Tampilan halaman Biodata Mahasiswa.
-
-Screenshot hasil pengujian digunakan sebagai dokumentasi praktikum.
